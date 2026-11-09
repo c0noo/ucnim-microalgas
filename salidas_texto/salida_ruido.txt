@@ -1,0 +1,71 @@
+/home/alumnos/pregrado/constanza.gaete/UCNIM/resultados_epica1/diagnostico_ruido_od.py:155: UserWarning: obj.round has no effect with datetime, timedelta, or period dtypes. Use obj.dt.round(...) instead.
+  .head(8)[["Secuencia", "Fecha", "hora", "dh_horas", "e_log", "OD"]].round(3).to_string(index=False))
+/home/alumnos/pregrado/constanza.gaete/UCNIM/resultados_epica1/diagnostico_ruido_od.py:158: UserWarning: obj.round has no effect with datetime, timedelta, or period dtypes. Use obj.dt.round(...) instead.
+  .round(3).to_string(index=False))
+Lecturas: 185 -> 185 tras filtros (OD>0, sin OD_Alta_Revisar); 36 secuencias
+Tríos utilizables: 68 en 31 secuencias
+
+Distribución de hora de lectura (h):
+count    185.00
+mean      15.60
+std        1.72
+min        3.32
+5%        14.15
+25%       14.85
+50%       15.35
+75%       16.03
+95%       18.22
+max       22.57
+SD de dh (hora - hora interpolada vecinas): 2.48 h; tríos con |dh| > 1 h: 20 de 68
+
+== Ruido sigma (escala log) – cota superior; rms vs MAD robusto ==
+                 n  sigma_rms  sigma_mad
+TODAS        68.0     0.0448     0.0315
+Laboratorio  17.0     0.0416     0.0463
+Planta       51.0     0.0459     0.0314
+OD baja      23.0     0.0440     0.0316
+OD media     22.0     0.0483     0.0188
+OD alta      23.0     0.0421     0.0388
+
+== Efecto de la hora de lectura ==
+ beta_lnOD_por_hora   0.0063
+beta_pct_por_hora    0.6357
+IC95_inf             0.0027
+IC95_sup             0.0260
+spearman_rho         0.2032
+spearman_p           0.0965
+n_trios             68.0000
+n_secuencias        31.0000
+beta_sin_top3_dh     0.0181
+
+== Mayores |dh| (identificación del efecto hora) ==
+                  Secuencia               Fecha   hora  dh_horas  e_log    OD
+   Laboratorio__TOTEM 2_C02 2026-07-24 22:34:00 22.567    16.629  0.048 1.300
+   Laboratorio__TOTEM 1_C02 2026-07-24 22:34:00 22.567     6.120  0.042 0.896
+   Laboratorio__TOTEM 3_C02 2026-07-24 22:34:00 22.567     6.057  0.049 1.410
+      Planta__TIM 02_C12_S1 2026-08-18 18:23:00 18.383     3.289  0.168 0.590
+      Planta__TIM 02_C12_S1 2026-08-19 14:51:00 14.850    -2.797 -0.142 0.482
+Laboratorio__TOTEM 7_C05_S1 2026-08-18 18:19:00 18.317     2.275  0.053 0.950
+Laboratorio__TOTEM 5_C05_S1 2026-08-18 18:16:00 18.267     2.251  0.107 1.044
+         Planta__BIM-08_C12 2026-09-03 17:10:00 17.167     2.206  0.071 0.614
+
+== BIM-08_C12: tríos ==
+              Fecha    OD   hora  dh_horas  e_log  e_norm
+2026-08-25 14:39:00 0.404 14.650    -0.260  0.057   0.046
+2026-08-26 14:45:24 0.417 14.750    -0.360  0.024   0.020
+2026-08-27 15:35:44 0.410 15.583     0.688 -0.049  -0.040
+2026-08-28 15:02:09 0.444 15.033    -0.448  0.061   0.048
+2026-09-01 15:08:00 0.499 15.133    -0.017  0.023   0.019
+2026-09-02 15:08:11 0.537 15.133    -0.975 -0.026  -0.021
+2026-09-03 17:10:00 0.614 17.167     2.206  0.071   0.058
+
+== RMSE LOO observado vs esperable solo por ruido ==
+          Secuencia  n sigma_usada  sigma  RMSE_LOO_obs_loglineal  RMSE_LOO_obs_exp_reportado  sim_p05  sim_mediana  sim_p95  frac_sim_ge_obs
+Planta__BIM-08_C12 10   sigma_mad 0.0314                  0.0320                      0.0318   0.0098       0.0160   0.0241            0.002
+Planta__BIM-08_C12 10   sigma_rms 0.0459                  0.0320                      0.0318   0.0138       0.0234   0.0354            0.108
+Planta__BIM-02_C04  7   sigma_mad 0.0314                  0.0188                      0.0191   0.0105       0.0214   0.0369            0.630
+Planta__BIM-02_C04  7   sigma_rms 0.0459                  0.0188                      0.0191   0.0156       0.0311   0.0541            0.894
+Planta__BIM-02_C01  7   sigma_mad 0.0314                  0.0524                      0.0533   0.0141       0.0277   0.0455            0.017
+Planta__BIM-02_C01  7   sigma_rms 0.0459                  0.0524                      0.0533   0.0205       0.0404   0.0654            0.208
+
+Guardado en diagnostico_ruido_od/diagnostico_ruido_od.xlsx

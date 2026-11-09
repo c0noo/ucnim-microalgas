@@ -1,0 +1,29 @@
+ambito,variable,objetivo,n,rho,p
+Planta__BIM-02_C01,tasa_pH,error signado,6,-0.029,0.957
+Planta__BIM-02_C01,tasa_pH,|error|,6,0.2,0.704
+Planta__BIM-02_C01,tasa_T,error signado,6,-0.086,0.872
+Planta__BIM-02_C01,tasa_T,|error|,6,-0.657,0.156
+Planta__BIM-02_C01,tasa_EC,error signado,6,0.371,0.468
+Planta__BIM-02_C01,tasa_EC,|error|,6,0.257,0.623
+Planta__BIM-02_C01,mu_obs,error signado,6,0.543,0.266
+Planta__BIM-02_C01,mu_obs,|error|,6,0.657,0.156
+Planta__BIM-02_C04,mu_obs,error signado,6,0.714,0.111
+Planta__BIM-02_C04,mu_obs,|error|,6,0.029,0.957
+Planta__BIM-08_C12,tasa_pH,error signado,9,-0.383,0.308
+Planta__BIM-08_C12,tasa_pH,|error|,9,-0.083,0.831
+Planta__BIM-08_C12,tasa_T,error signado,9,-0.25,0.516
+Planta__BIM-08_C12,tasa_T,|error|,9,0.15,0.7
+Planta__BIM-08_C12,tasa_EC,error signado,9,-0.483,0.187
+Planta__BIM-08_C12,tasa_EC,|error|,9,0.15,0.7
+Planta__BIM-08_C12,vol_rel,error signado,9,0.274,0.476
+Planta__BIM-08_C12,vol_rel,|error|,9,0.365,0.334
+Planta__BIM-08_C12,mu_obs,error signado,9,0.467,0.205
+Planta__BIM-08_C12,mu_obs,|error|,9,0.567,0.112
+TODAS (z intra-secuencia),z_tasa_pH,z error signado,19,-0.117,0.634
+TODAS (z intra-secuencia),z_tasa_pH,|z error|,19,0.188,0.441
+TODAS (z intra-secuencia),z_tasa_T,z error signado,19,-0.355,0.136
+TODAS (z intra-secuencia),z_tasa_T,|z error|,19,-0.139,0.571
+TODAS (z intra-secuencia),z_tasa_EC,z error signado,19,-0.263,0.276
+TODAS (z intra-secuencia),z_tasa_EC,|z error|,19,0.112,0.65
+TODAS (z intra-secuencia),z_vol_rel,z error signado,19,0.237,0.329
+TODAS (z intra-secuencia),z_vol_rel,|z error|,19,0.163,0.505

@@ -1,0 +1,17 @@
+covariable,objetivo,n,rho,p_perm
+tasa_pH,mu_obs - r_exp,19,0.137,0.5441
+tasa_pH,error LOO exp,19,0.005,0.9848
+tasa_T,mu_obs - r_exp,19,0.019,0.9376
+tasa_T,error LOO exp,19,-0.254,0.3151
+tasa_EC,mu_obs - r_exp,19,0.086,0.7187
+tasa_EC,error LOO exp,19,-0.24,0.3417
+vol_rel,mu_obs - r_exp,19,-0.042,0.9156
+vol_rel,error LOO exp,19,0.083,0.7003
+tasa_pH_lag1,mu_obs - r_exp,16,-0.003,0.9948
+tasa_pH_lag1,error LOO exp,16,-0.285,0.3457
+tasa_T_lag1,mu_obs - r_exp,16,0.059,0.845
+tasa_T_lag1,error LOO exp,16,0.1,0.7293
+tasa_EC_lag1,mu_obs - r_exp,16,0.221,0.3953
+tasa_EC_lag1,error LOO exp,16,-0.197,0.5245
+vol_rel_lag1,mu_obs - r_exp,16,-0.225,0.4147
+vol_rel_lag1,error LOO exp,16,-0.084,0.7217

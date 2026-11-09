@@ -1,0 +1,7 @@
+index,n,sigma_rms,sigma_mad
+TODAS,68,0.0448,0.0315
+Laboratorio,17,0.0416,0.0463
+Planta,51,0.0459,0.0314
+OD baja,23,0.044,0.0316
+OD media,22,0.0483,0.0188
+OD alta,23,0.0421,0.0388

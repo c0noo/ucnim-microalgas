@@ -1,0 +1,48 @@
+== BIM-08_C12: intervalos ==
+         Secuencia  Días cultivo  dt_dias    OD  mu_obs  r_exp  mu_dev  tasa_pH  tasa_T  tasa_EC  vol_rel  tasa_pH_lag1  tasa_T_lag1  tasa_EC_lag1  Error_exponencial  z_err_exp vars_cambio_inusual
+Planta__BIM-08_C12            26      NaN 0.350     NaN  0.045     NaN      NaN     NaN      NaN      NaN           NaN          NaN           NaN             -0.017     -0.599                 NaN
+Planta__BIM-08_C12            27    0.983 0.404   0.146  0.045   0.101   -0.183  -0.153  -36.636    0.000           NaN          NaN           NaN              0.032      0.977                 NaN
+Planta__BIM-08_C12            28    1.004 0.417   0.032  0.045  -0.014   -0.528   0.777  -17.920    0.333        -0.183       -0.153       -36.636              0.025      0.750              vol,pH
+Planta__BIM-08_C12            29    1.035 0.410  -0.016  0.045  -0.062    0.164  -0.560    0.966   -0.250        -0.528        0.777       -17.920             -0.006     -0.256                 vol
+Planta__BIM-08_C12            30    0.977 0.444   0.082  0.045   0.036   -0.072   0.481  -11.263    0.000         0.164       -0.560         0.966              0.011      0.298                 NaN
+Planta__BIM-08_C12            33    3.006 0.443  -0.001  0.045  -0.046   -0.153   0.053   -6.986    0.000        -0.072        0.481       -11.263             -0.062     -2.046                 NaN
+Planta__BIM-08_C12            34    0.998 0.499   0.119  0.045   0.074    1.583   0.511  124.246    0.000        -0.153        0.053        -6.986             -0.025     -0.875               pH,EC
+Planta__BIM-08_C12            35    1.000 0.537   0.073  0.045   0.028    0.070   1.380  -26.997    0.000         1.583        0.511       124.246             -0.010     -0.377                   T
+Planta__BIM-08_C12            36    1.085 0.614   0.124  0.045   0.078   -0.046  -0.443  -17.518    0.000         0.070        1.380       -26.997              0.059      1.841                 NaN
+Planta__BIM-08_C12            37    0.902 0.603  -0.020  0.045  -0.065   -0.765  -1.740  -83.130    0.000        -0.046       -0.443       -17.518              0.010      0.256             pH,T,EC
+
+== Distribución de mu_obs vs r del exponencial ==
+                     count   mean    std    min    25%    50%    75%    max  r_exp
+Secuencia                                                                        
+Planta__BIM-02_C01    6.0  0.058  0.049  0.000  0.025  0.060  0.074  0.138  0.040
+Planta__BIM-02_C04    6.0  0.067  0.032  0.021  0.045  0.074  0.087  0.106  0.064
+Planta__BIM-08_C12    9.0  0.060  0.064 -0.020 -0.001  0.073  0.119  0.146  0.045
+
+== Asociaciones (permutación intra-secuencia; 8 covariables x 2 objetivos, sin corrección por múltiples contrastes: p < 0.003 para Bonferroni) ==
+   covariable       objetivo  n    rho  p_perm
+     tasa_pH mu_obs - r_exp 19  0.137  0.5441
+     tasa_pH  error LOO exp 19  0.005  0.9848
+      tasa_T mu_obs - r_exp 19  0.019  0.9376
+      tasa_T  error LOO exp 19 -0.254  0.3151
+     tasa_EC mu_obs - r_exp 19  0.086  0.7187
+     tasa_EC  error LOO exp 19 -0.240  0.3417
+     vol_rel mu_obs - r_exp 19 -0.042  0.9156
+     vol_rel  error LOO exp 19  0.083  0.7003
+tasa_pH_lag1 mu_obs - r_exp 16 -0.003  0.9948
+tasa_pH_lag1  error LOO exp 16 -0.285  0.3457
+ tasa_T_lag1 mu_obs - r_exp 16  0.059  0.8450
+ tasa_T_lag1  error LOO exp 16  0.100  0.7293
+tasa_EC_lag1 mu_obs - r_exp 16  0.221  0.3953
+tasa_EC_lag1  error LOO exp 16 -0.197  0.5245
+vol_rel_lag1 mu_obs - r_exp 16 -0.225  0.4147
+vol_rel_lag1  error LOO exp 16 -0.084  0.7217
+
+== Esquema comparacion_mediciones_od.xlsx (para fijar piso de ruido de la OD) ==
+--- hoja 'Sheet1': (229, 21)
+columnas: ['Ciclo_ID', 'Localidad', 'Recipiente', 'Fecha_Inicio', 'Fecha_Fin', 'N_Registros', 'N_OD_Disponibles', 'Duracion_Fecha_Dias', 'Dias_Cultivo_Min', 'Dias_Cultivo_Max', 'OD_Inicial', 'OD_Maxima', 'OD_Final', 'Volumen_Min_L', 'Volumen_Max_L', 'Termina_En_Descarte', 'Tiene_OD_Alta', 'Tiene_Reinicio_Sospechoso', 'Candidato_Revision', 'OD_Sin_Descarte', 'OD_Descarte_Incluido']
+                   Ciclo_ID    Localidad Recipiente        Fecha_Inicio           Fecha_Fin  N_Registros  N_OD_Disponibles  Duracion_Fecha_Dias  Dias_Cultivo_Min  Dias_Cultivo_Max  OD_Inicial  OD_Maxima  OD_Final  Volumen_Min_L  Volumen_Max_L  Termina_En_Descarte  Tiene_OD_Alta  Tiene_Reinicio_Sospechoso  Candidato_Revision  OD_Sin_Descarte  OD_Descarte_Incluido
+0  Laboratorio__BIDON 1_C01  Laboratorio    BIDON 1 2026-08-21 14:45:32 2026-08-28 17:14:35            6                 6                 7.10                 0                 7       0.596      1.046     0.508           15.0           15.0                 True          False                      False                True                5                     1
+1  Laboratorio__BIDON 1_C02  Laboratorio    BIDON 1 2026-09-01 14:43:36 2026-09-02 19:01:53            2                 2                 1.18                 4                 5       1.024      1.064     1.064           15.0           15.0                False          False                      False               False                2                     0
+2  Laboratorio__BIDON 2_C01  Laboratorio    BIDON 2 2026-08-21 14:45:48 2026-08-28 17:14:50            6                 6                 7.10                 0                 7       0.622      0.916     0.517           15.0           15.0                 True          False                      False                True                5                     1
+
+Guardado: matriz_diagnostico_operacional/diagnostico_regimen_crecimiento.xlsx

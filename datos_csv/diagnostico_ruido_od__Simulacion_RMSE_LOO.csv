@@ -1,0 +1,7 @@
+Secuencia,n,sigma_usada,sigma,RMSE_LOO_obs_loglineal,RMSE_LOO_obs_exp_reportado,sim_p05,sim_mediana,sim_p95,frac_sim_ge_obs
+Planta__BIM-08_C12,10,sigma_mad,0.0314,0.032,0.0318,0.0098,0.016,0.0241,0.002
+Planta__BIM-08_C12,10,sigma_rms,0.0459,0.032,0.0318,0.0138,0.0234,0.0354,0.108
+Planta__BIM-02_C04,7,sigma_mad,0.0314,0.0188,0.0191,0.0105,0.0214,0.0369,0.63
+Planta__BIM-02_C04,7,sigma_rms,0.0459,0.0188,0.0191,0.0156,0.0311,0.0541,0.894
+Planta__BIM-02_C01,7,sigma_mad,0.0314,0.0524,0.0533,0.0141,0.0277,0.0455,0.017
+Planta__BIM-02_C01,7,sigma_rms,0.0459,0.0524,0.0533,0.0205,0.0404,0.0654,0.208

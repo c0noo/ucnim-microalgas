@@ -1,0 +1,4 @@
+Secuencia,Luces encendidas,Aire encendido,Estado,Ritmo,Cantidad luces
+Planta__BIM-02_C01,NaN=0; valores=['Sí'],NaN=5; valores=['Sí'],"NaN=0; valores=['Inóculo Cliente', 'Producto']","NaN=0; valores=['Estacionario', 'Moderado', 'Rápido']",NaN=0; valores=['2']
+Planta__BIM-02_C04,NaN=0; valores=['Sí'],NaN=0; valores=['Sí'],NaN=0; valores=['Observación'],"NaN=0; valores=['Estacionario', 'Moderado', 'Rápido']","NaN=0; valores=['1', '2']"
+Planta__BIM-08_C12,NaN=0; valores=['Sí'],NaN=0; valores=['Sí'],NaN=0; valores=['Observación'],"NaN=0; valores=['Estacionario', 'Moderado', 'Rápido']",NaN=0; valores=['2']

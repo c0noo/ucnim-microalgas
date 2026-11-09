@@ -1,0 +1,5 @@
+Clasificacion,Criterio
+Insuficiente para caracterizar,Menos de 5 OD con edad o menos de 5 edades distintas.
+Exploratorio con revisión,"Tiene al menos 5 OD y edades distintas, pero presenta alertas."
+Caracterización exploratoria,Tiene entre 5 y 6 OD con edades distintas y sin alertas detectadas.
+Prioritario para caracterización,"Tiene al menos 7 OD y 7 edades distintas, sin alertas detectadas."

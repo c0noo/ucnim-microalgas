@@ -1,0 +1,53 @@
+/home/alumnos/pregrado/constanza.gaete/UCNIM/resultados_epica1/enriquecer_matriz_diagnostico.py:163: UserWarning: obj.round has no effect with datetime, timedelta, or period dtypes. Use obj.dt.round(...) instead.
+  .groupby("Secuencia").head(k)[COLS_TOP].round(4))
+/home/alumnos/pregrado/constanza.gaete/UCNIM/resultados_epica1/enriquecer_matriz_diagnostico.py:163: UserWarning: obj.round has no effect with datetime, timedelta, or period dtypes. Use obj.dt.round(...) instead.
+  .groupby("Secuencia").head(k)[COLS_TOP].round(4))
+/home/alumnos/pregrado/constanza.gaete/UCNIM/resultados_epica1/enriquecer_matriz_diagnostico.py:163: UserWarning: obj.round has no effect with datetime, timedelta, or period dtypes. Use obj.dt.round(...) instead.
+  .groupby("Secuencia").head(k)[COLS_TOP].round(4))
+
+== ¿Los errores de la matriz son LOO? ==
+                     dif_max_exp  dif_max_bar  errores_son_LOO
+Secuencia                                                    
+Planta__BIM-02_C01          0.0          0.0             True
+Planta__BIM-02_C04          0.0          0.0             True
+Planta__BIM-08_C12          0.0          0.0             True
+
+== Calidad variables categóricas ==
+             Secuencia       Luces encendidas         Aire encendido                                          Estado                                                  Ritmo             Cantidad luces
+0  Planta__BIM-02_C01  NaN=0; valores=['Sí']  NaN=5; valores=['Sí']  NaN=0; valores=['Inóculo Cliente', 'Producto']  NaN=0; valores=['Estacionario', 'Moderado', 'Rápido']       NaN=0; valores=['2']
+1  Planta__BIM-02_C04  NaN=0; valores=['Sí']  NaN=0; valores=['Sí']                  NaN=0; valores=['Observación']  NaN=0; valores=['Estacionario', 'Moderado', 'Rápido']  NaN=0; valores=['1', '2']
+2  Planta__BIM-08_C12  NaN=0; valores=['Sí']  NaN=0; valores=['Sí']                  NaN=0; valores=['Observación']  NaN=0; valores=['Estacionario', 'Moderado', 'Rápido']       NaN=0; valores=['2']
+
+== BIM-08_C12: top 4 desviaciones (todas) ==
+                                          19                   22                   15                   20
+Secuencia                 Planta__BIM-08_C12   Planta__BIM-08_C12   Planta__BIM-08_C12   Planta__BIM-08_C12
+Días cultivo                              33                   36                   27                   34
+Fecha                    2026-08-31 15:10:51  2026-09-03 17:10:00  2026-08-25 14:39:00  2026-09-01 15:08:00
+posicion                            interior             interior             interior             interior
+leverage_aprox                        0.1156               0.2463               0.2428               0.1434
+dt_dias                                3.006               1.0846               0.9826                0.998
+OD                                     0.443                0.614                0.404                0.499
+OD_predicha_exponencial               0.5046               0.5554               0.3721               0.5244
+Error_exponencial                    -0.0616               0.0586               0.0319              -0.0254
+err_rel_pct                         -12.2041              10.5559               8.5773               -4.837
+z_err_exp                            -2.0457               1.8409               0.9773              -0.8747
+mu_obs                               -0.0008               0.1235                0.146               0.1193
+tasa_pH                               -0.153              -0.0461              -0.1832               1.5831
+tasa_T                                0.0532              -0.4426              -0.1527                0.511
+tasa_EC                              -6.9859             -17.5181              -36.636             124.2459
+vol_rel                                  0.0                  0.0                  0.0                  0.0
+Cambio_Volumen (L)                       0.0                  0.0                  0.0                  0.0
+ratio_OD_vs_dilucion                     NaN                  NaN                  NaN                  NaN
+ratio_EC_vs_agua                         NaN                  NaN                  NaN                  NaN
+Aire encendido                            Sí                   Sí                   Sí                   Sí
+Estado                           Observación          Observación          Observación          Observación
+Ritmo                           Estacionario               Rápido               Rápido               Rápido
+vars_cambio_inusual                                                                                   pH,EC
+
+== Eventos de volumen (todas las secuencias) ==
+             Secuencia  Días cultivo  Volumen (L)  vol_rel     OD  OD_esperada_dilucion  ratio_OD_vs_dilucion      EC  ratio_EC_vs_agua  Error_exponencial
+16  Planta__BIM-08_C12            28       1000.0    0.333  0.417                 0.303                 1.376  2101.0             1.322              0.025
+17  Planta__BIM-08_C12            29        750.0   -0.250  0.410                 0.556                 0.737  2102.0             0.750             -0.006
+
+Guardado: matriz_diagnostico_operacional/matriz_diagnostico_enriquecida.xlsx
+Gráficos: matriz_diagnostico_operacional/graficos_enriquecida/

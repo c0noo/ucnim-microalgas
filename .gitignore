@@ -1,0 +1,6 @@
+*.png
+*.tar.gz
+*.xlsx
+__pycache__/
+.venv/
+.ipynb_checkpoints/

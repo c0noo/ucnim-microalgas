@@ -1,0 +1,186 @@
+Ciclo_ID,Secuencia,Fecha,Edad,OD,Estado,OD_Alta_Revisar
+Laboratorio__BIDON 1_C01,Laboratorio__BIDON 1_C01,2026-08-21 14:45:32,0,0.596,Observación,False
+Laboratorio__BIDON 1_C01,Laboratorio__BIDON 1_C01,2026-08-26 15:46:51,5,0.882,Observación,False
+Laboratorio__BIDON 1_C01,Laboratorio__BIDON 1_C01,2026-08-27 16:21:51,6,1.046,Observación,False
+Laboratorio__BIDON 2_C01,Laboratorio__BIDON 2_C01,2026-08-21 14:45:48,0,0.622,Observación,False
+Laboratorio__BIDON 2_C01,Laboratorio__BIDON 2_C01,2026-08-26 15:47:04,5,0.898,Observación,False
+Laboratorio__BIDON 2_C01,Laboratorio__BIDON 2_C01,2026-08-27 16:22:15,6,0.916,Observación,False
+Planta__BIM-01_C03,Planta__BIM-01_C03,2026-07-15 14:58:14,43,0.664,Observación,False
+Planta__BIM-01_C03,Planta__BIM-01_C03,2026-07-23 14:52:00,51,0.684,Observación,False
+Planta__BIM-01_C03,Planta__BIM-01_C03,2026-07-24 16:02:29,53,0.702,Observación,False
+Planta__BIM-01_C03,Planta__BIM-01_C03,2026-07-27 15:30:00,56,0.715,Observación,False
+Planta__BIM-01_C03,Planta__BIM-01_C03,2026-07-28 14:48:54,56,0.71,Observación,False
+Planta__BIM-01_C03,Planta__BIM-01_C03,2026-07-29 14:44:18,57,0.71,Observación,False
+Planta__BIM-01_C04,Planta__BIM-01_C04,2026-08-03 15:15:20,63,0.739,Observación,False
+Planta__BIM-01_C04,Planta__BIM-01_C04,2026-08-04 14:56:14,63,0.73,Observación,False
+Planta__BIM-01_C04,Planta__BIM-01_C04,2026-08-05 14:22:49,64,0.726,Observación,False
+Planta__BIM-01_C04,Planta__BIM-01_C04,2026-08-06 14:04:10,65,0.724,Observación,False
+Planta__BIM-01_C04,Planta__BIM-01_C04,2026-08-07 14:10:36,66,0.864,Observación,False
+Planta__BIM-03_C04,Planta__BIM-03_C04,2026-07-23 15:05:00,7,0.447,Observación,False
+Planta__BIM-03_C04,Planta__BIM-03_C04,2026-07-24 16:10:22,9,0.462,Observación,False
+Planta__BIM-03_C04,Planta__BIM-03_C04,2026-07-27 15:49:00,12,0.52,Observación,False
+Planta__BIM-03_C04,Planta__BIM-03_C04,2026-07-28 15:14:01,13,0.54,Observación,False
+Planta__BIM-03_C04,Planta__BIM-03_C04,2026-07-29 15:00:52,13,0.539,Observación,False
+Planta__BIM-03_C04,Planta__BIM-03_C04,2026-07-30 14:57:13,14,0.553,Observación,False
+Planta__BIM-03_C04,Planta__BIM-03_C04,2026-08-03 15:33:46,19,0.516,Observación,False
+Planta__BIM-05_C04,Planta__BIM-05_C04,2026-07-23 15:18:00,61,0.886,Observación,False
+Planta__BIM-05_C04,Planta__BIM-05_C04,2026-07-24 16:28:11,63,0.892,Observación,False
+Planta__BIM-05_C04,Planta__BIM-05_C04,2026-07-27 16:02:00,66,0.848,Observación,False
+Planta__BIM-05_C04,Planta__BIM-05_C04,2026-07-28 15:33:28,67,0.904,Observación,False
+Planta__BIM-05_C04,Planta__BIM-05_C04,2026-07-29 15:18:42,67,0.946,Observación,False
+Planta__BIM-05_C04,Planta__BIM-05_C04,2026-07-30 15:16:27,68,0.94,Observación,False
+Planta__BIM-06_C01,Planta__BIM-06_C01,2026-07-07 15:18:12,27,0.687,Crecimiento,False
+Planta__BIM-06_C01,Planta__BIM-06_C01,2026-07-08 15:56:14,28,0.711,Producto,False
+Planta__BIM-06_C01,Planta__BIM-06_C01,2026-07-09 15:07:00,29,0.748,Producto,False
+Planta__BIM-06_C01,Planta__BIM-06_C01,2026-07-13 15:26:10,33,0.77,Producto,False
+Planta__BIM-06_C01,Planta__BIM-06_C01,2026-07-14 17:02:00,34,0.768,Producto,False
+Planta__BIM-06_C01,Planta__BIM-06_C01,2026-07-15 15:38:57,35,0.806,Producto,False
+Planta__BIM-06_C01,Planta__BIM-06_C01,2026-07-23 15:24:00,43,0.812,Producto,False
+Planta__BIM-06_C01,Planta__BIM-06_C01,2026-07-24 16:35:11,44,0.838,Producto,False
+Planta__BIM-06_C01,Planta__BIM-06_C01,2026-07-27 16:09:00,47,0.808,Producto,False
+Planta__BIM-06_C01,Planta__BIM-06_C01,2026-07-28 15:42:55,48,0.878,Producto,False
+Planta__BIM-06_C01,Planta__BIM-06_C01,2026-07-29 15:26:30,49,0.946,Producto,False
+Planta__BIM-07_C03,Planta__BIM-07_C03,2026-07-15 15:46:00,27,0.544,Inóculo Cliente,False
+Planta__BIM-07_C03,Planta__BIM-07_C03,2026-07-23 15:33:00,35,0.578,Observación,False
+Planta__BIM-07_C03,Planta__BIM-07_C03,2026-07-24 15:43:00,36,0.583,Observación,False
+Planta__BIM-07_C03,Planta__BIM-07_C03,2026-07-27 16:17:00,39,0.6,Crecimiento,False
+Planta__BIM-07_C03,Planta__BIM-07_C03,2026-07-28 15:51:47,40,0.664,Inóculo Planta,False
+Planta__BIM-07_C03,Planta__BIM-07_C03,2026-07-29 15:34:34,41,0.698,Inóculo Cliente,False
+Planta__BIM-07_C03,Planta__BIM-07_C03,2026-07-30 15:31:03,42,0.732,Producto,False
+Planta__BIM-07_C03,Planta__BIM-07_C03,2026-08-03 15:57:02,46,0.868,Producto,False
+Planta__BIM-07_C03,Planta__BIM-07_C03,2026-08-04 15:32:47,47,0.894,Producto,False
+Planta__BIM-07_C03,Planta__BIM-07_C03,2026-08-05 15:02:42,48,1.122,Producto,False
+Planta__BIM-09_C01,Planta__BIM-09_C01,2026-07-07 15:44:32,34,0.663,Observación,False
+Planta__BIM-09_C01,Planta__BIM-09_C01,2026-07-08 16:23:27,35,0.697,Observación,False
+Planta__BIM-09_C01,Planta__BIM-09_C01,2026-07-09 15:32:00,35,0.744,Observación,False
+Planta__BIM-09_C01,Planta__BIM-09_C01,2026-07-10 15:43:00,36,0.766,Observación,False
+Planta__BIM-09_C01,Planta__BIM-09_C01,2026-07-13 15:47:10,40,0.822,Observación,False
+Planta__BIM-09_C04,Planta__BIM-09_C04,2026-07-29 15:50:00,56,0.74,Observación,False
+Planta__BIM-09_C04,Planta__BIM-09_C04,2026-07-30 15:45:35,57,0.764,Observación,False
+Planta__BIM-09_C04,Planta__BIM-09_C04,2026-08-03 16:26:25,61,0.742,Observación,False
+Planta__BIM-09_C04,Planta__BIM-09_C04,2026-08-04 15:51:59,62,0.74,Observación,False
+Planta__BIM-09_C04,Planta__BIM-09_C04,2026-08-05 15:23:16,62,0.79,Observación,False
+Planta__TIM 01_C11,Planta__TIM 01_C11,2026-08-06 15:59:15,0,0.481,Observación,False
+Planta__TIM 01_C11,Planta__TIM 01_C11,2026-08-07 18:01:00,1,0.48,Observación,False
+Planta__TIM 01_C11,Planta__TIM 01_C11,2026-08-10 20:11:00,5,0.541,Observación,False
+Planta__TIM 01_C11,Planta__TIM 01_C11,2026-08-11 19:25:00,6,0.568,Observación,False
+Planta__TIM 01_C11,Planta__TIM 01_C11,2026-08-12 17:02:45,6,0.586,Observación,False
+Planta__BIM-01_C06,Planta__BIM-01_C06,2026-08-27 14:58:29,7,0.416,Observación,False
+Planta__BIM-01_C06,Planta__BIM-01_C06,2026-08-28 14:13:18,8,0.498,Observación,False
+Planta__BIM-01_C06,Planta__BIM-01_C06,2026-08-31 14:12:26,11,0.595,Observación,False
+Planta__BIM-01_C06,Planta__BIM-01_C06,2026-09-01 14:17:00,12,0.73,Observación,False
+Planta__BIM-01_C06,Planta__BIM-01_C06,2026-09-02 14:19:00,13,0.796,Observación,False
+Planta__BIM-02_C01,Planta__BIM-02_C01,2026-07-07 14:50:32,19,0.674,Inóculo Cliente,False
+Planta__BIM-02_C01,Planta__BIM-02_C01,2026-07-08 15:34:11,20,0.709,Producto,False
+Planta__BIM-02_C01,Planta__BIM-02_C01,2026-07-09 14:52:00,21,0.76,Producto,False
+Planta__BIM-02_C01,Planta__BIM-02_C01,2026-07-10 14:51:00,22,0.76,Producto,False
+Planta__BIM-02_C01,Planta__BIM-02_C01,2026-07-13 14:55:37,25,0.8,Producto,False
+Planta__BIM-02_C01,Planta__BIM-02_C01,2026-07-14 16:34:22,26,0.866,Producto,False
+Planta__BIM-02_C01,Planta__BIM-02_C01,2026-07-15 15:04:03,27,0.986,Producto,False
+Planta__BIM-02_C04,Planta__BIM-02_C04,2026-07-27 15:40:00,2,0.441,Observación,False
+Planta__BIM-02_C04,Planta__BIM-02_C04,2026-07-28 15:04:12,3,0.479,Observación,False
+Planta__BIM-02_C04,Planta__BIM-02_C04,2026-07-29 14:51:43,4,0.532,Observación,False
+Planta__BIM-02_C04,Planta__BIM-02_C04,2026-07-30 14:43:17,5,0.553,Observación,False
+Planta__BIM-02_C04,Planta__BIM-02_C04,2026-08-03 15:23:04,9,0.713,Observación,False
+Planta__BIM-02_C04,Planta__BIM-02_C04,2026-08-04 15:04:25,10,0.778,Observación,False
+Planta__BIM-02_C04,Planta__BIM-02_C04,2026-08-05 14:31:13,11,0.794,Observación,False
+Planta__BIM-02_C06,Planta__BIM-02_C06,2026-08-11 14:42:00,17,0.596,Observación,False
+Planta__BIM-02_C06,Planta__BIM-02_C06,2026-08-12 13:50:36,18,0.613,Observación,False
+Planta__BIM-02_C06,Planta__BIM-02_C06,2026-08-13 14:20:10,19,0.633,Observación,False
+Planta__BIM-02_C06,Planta__BIM-02_C06,2026-08-14 14:17:18,20,0.645,Observación,False
+Planta__BIM-02_C06,Planta__BIM-02_C06,2026-08-18 14:15:00,24,0.734,Observación,False
+Planta__BIM-02_C06,Planta__BIM-02_C06,2026-08-19 14:18:30,25,0.928,Observación,False
+Planta__BIM-04_C04,Planta__BIM-04_C04,2026-07-23 15:11:00,13,0.309,Observación,False
+Planta__BIM-04_C04,Planta__BIM-04_C04,2026-07-24 16:17:13,14,0.321,Observación,False
+Planta__BIM-04_C04,Planta__BIM-04_C04,2026-07-27 15:57:00,17,0.342,Observación,False
+Planta__BIM-04_C04,Planta__BIM-04_C04,2026-07-28 15:15:41,18,0.336,Observación,False
+Planta__BIM-04_C04,Planta__BIM-04_C04,2026-07-29 15:10:50,19,0.44,Observación,False
+Planta__BIM-04_C07,Planta__BIM-04_C07,2026-08-06 14:25:06,27,0.327,Observación,False
+Planta__BIM-04_C07,Planta__BIM-04_C07,2026-08-07 14:35:18,28,0.321,Observación,False
+Planta__BIM-04_C07,Planta__BIM-04_C07,2026-08-10 16:07:26,31,0.32,Observación,False
+Planta__BIM-04_C07,Planta__BIM-04_C07,2026-08-11 15:02:15,32,0.325,Observación,False
+Planta__BIM-04_C07,Planta__BIM-04_C07,2026-08-12 14:21:41,33,0.331,Observación,False
+Planta__BIM-08_C12,Planta__BIM-08_C12,2026-08-24 15:04:00,26,0.35,Observación,False
+Planta__BIM-08_C12,Planta__BIM-08_C12,2026-08-25 14:39:00,27,0.404,Observación,False
+Planta__BIM-08_C12,Planta__BIM-08_C12,2026-08-26 14:45:24,28,0.417,Observación,False
+Planta__BIM-08_C12,Planta__BIM-08_C12,2026-08-27 15:35:44,29,0.41,Observación,False
+Planta__BIM-08_C12,Planta__BIM-08_C12,2026-08-28 15:02:09,30,0.444,Observación,False
+Planta__BIM-08_C12,Planta__BIM-08_C12,2026-08-31 15:10:51,33,0.443,Observación,False
+Planta__BIM-08_C12,Planta__BIM-08_C12,2026-09-01 15:08:00,34,0.499,Observación,False
+Planta__BIM-08_C12,Planta__BIM-08_C12,2026-09-02 15:08:11,35,0.537,Observación,False
+Planta__BIM-08_C12,Planta__BIM-08_C12,2026-09-03 17:10:00,36,0.614,Observación,False
+Planta__BIM-08_C12,Planta__BIM-08_C12,2026-09-04 14:49:10,37,0.603,Observación,False
+Planta__BIM-09_C07,Planta__BIM-09_C07,2026-08-14 14:57:23,1,0.314,Observación,False
+Planta__BIM-09_C07,Planta__BIM-09_C07,2026-08-17 15:24:33,4,0.32,Observación,False
+Planta__BIM-09_C07,Planta__BIM-09_C07,2026-08-18 16:13:00,5,0.346,Observación,False
+Planta__BIM-09_C07,Planta__BIM-09_C07,2026-08-19 14:54:47,6,0.357,Observación,False
+Planta__BIM-09_C07,Planta__BIM-09_C07,2026-08-20 15:11:00,7,0.382,Observación,False
+Planta__BIM-09_C07,Planta__BIM-09_C07,2026-08-21 15:56:58,8,0.437,Observación,False
+Planta__BIM-09_C09,Planta__BIM-09_C09,2026-08-28 15:08:46,15,0.449,Observación,False
+Planta__BIM-09_C09,Planta__BIM-09_C09,2026-08-31 15:19:29,18,0.437,Observación,False
+Planta__BIM-09_C09,Planta__BIM-09_C09,2026-09-01 15:20:00,19,0.624,Observación,False
+Planta__BIM-09_C09,Planta__BIM-09_C09,2026-09-02 15:17:01,20,0.642,Observación,False
+Planta__BIM-09_C09,Planta__BIM-09_C09,2026-09-03 17:18:00,21,0.679,Observación,False
+Planta__BIM-10_C07,Planta__BIM-10_C07,2026-08-07 15:08:24,22,0.444,Observación,False
+Planta__BIM-10_C07,Planta__BIM-10_C07,2026-08-10 16:32:00,25,0.468,Observación,False
+Planta__BIM-10_C07,Planta__BIM-10_C07,2026-08-11 15:31:37,26,0.492,Observación,False
+Planta__BIM-10_C07,Planta__BIM-10_C07,2026-08-12 14:55:57,27,0.49,Observación,False
+Planta__BIM-10_C07,Planta__BIM-10_C07,2026-08-13 15:20:13,28,0.488,Observación,False
+Laboratorio__TOTEM 1_C02,Laboratorio__TOTEM 1_C02,2026-07-13 13:22:00,2,0.475,Observación,False
+Laboratorio__TOTEM 1_C02,Laboratorio__TOTEM 1_C02,2026-07-14 16:12:47,4,0.527,Observación,False
+Laboratorio__TOTEM 1_C02,Laboratorio__TOTEM 1_C02,2026-07-15 15:19:00,5,0.635,Observación,False
+Laboratorio__TOTEM 1_C02,Laboratorio__TOTEM 1_C02,2026-07-23 17:17:00,7,0.748,Observación,False
+Laboratorio__TOTEM 1_C02,Laboratorio__TOTEM 1_C02,2026-07-24 22:34:00,9,0.896,Observación,False
+Laboratorio__TOTEM 1_C02,Laboratorio__TOTEM 1_C02,2026-07-27 14:37:00,11,1.164,Observación,False
+Laboratorio__TOTEM 1_C02,Laboratorio__TOTEM 1_C02,2026-07-28 14:18:00,12,1.226,Observación,False
+Laboratorio__TOTEM 2_C02,Laboratorio__TOTEM 2_C02,2026-07-13 13:50:00,2,0.926,Observación,False
+Laboratorio__TOTEM 2_C02,Laboratorio__TOTEM 2_C02,2026-07-14 16:14:00,4,1.062,Observación,False
+Laboratorio__TOTEM 2_C02,Laboratorio__TOTEM 2_C02,2026-07-15 15:20:00,5,1.174,Observación,False
+Laboratorio__TOTEM 2_C02,Laboratorio__TOTEM 2_C02,2026-07-24 03:19:00,8,1.152,Observación,False
+Laboratorio__TOTEM 2_C02,Laboratorio__TOTEM 2_C02,2026-07-24 22:34:00,9,1.3,Observación,False
+Laboratorio__TOTEM 2_C02,Laboratorio__TOTEM 2_C02,2026-07-27 14:40:22,11,1.581,Observación,False
+Laboratorio__TOTEM 2_C02,Laboratorio__TOTEM 2_C02,2026-07-28 14:19:00,12,1.794,Observación,False
+Laboratorio__TOTEM 3_C02,Laboratorio__TOTEM 3_C02,2026-07-13 14:00:00,2,0.916,Observación,False
+Laboratorio__TOTEM 3_C02,Laboratorio__TOTEM 3_C02,2026-07-14 16:17:46,3,1.014,Observación,False
+Laboratorio__TOTEM 3_C02,Laboratorio__TOTEM 3_C02,2026-07-15 15:21:00,4,1.108,Observación,False
+Laboratorio__TOTEM 3_C02,Laboratorio__TOTEM 3_C02,2026-07-23 17:21:00,7,1.24,Observación,False
+Laboratorio__TOTEM 3_C02,Laboratorio__TOTEM 3_C02,2026-07-24 22:34:00,9,1.41,Observación,False
+Laboratorio__TOTEM 3_C02,Laboratorio__TOTEM 3_C02,2026-07-27 14:40:38,11,1.596,Observación,False
+Laboratorio__TOTEM 3_C02,Laboratorio__TOTEM 3_C02,2026-07-28 14:19:00,12,1.881,Observación,False
+Laboratorio__TOTEM 1_C06,Laboratorio__TOTEM 1_C06_S1,2026-08-24 15:09:00,3,0.906,Observación,False
+Laboratorio__TOTEM 1_C06,Laboratorio__TOTEM 1_C06_S1,2026-08-25 13:59:00,4,0.998,Observación,False
+Laboratorio__TOTEM 1_C06,Laboratorio__TOTEM 1_C06_S1,2026-08-26 15:49:00,5,1.116,Observación,False
+Laboratorio__TOTEM 1_C06,Laboratorio__TOTEM 1_C06_S1,2026-08-31 14:09:00,10,0.302,Observación,False
+Laboratorio__TOTEM 1_C06,Laboratorio__TOTEM 1_C06_S2,2026-09-01 21:23:00,0,0.5,Observación,False
+Laboratorio__TOTEM 1_C06,Laboratorio__TOTEM 1_C06_S2,2026-09-02 16:47:00,1,0.71,Observación,False
+Laboratorio__TOTEM 2_C06,Laboratorio__TOTEM 2_C06_S1,2026-08-24 15:12:00,3,1.052,Observación,False
+Laboratorio__TOTEM 2_C06,Laboratorio__TOTEM 2_C06_S1,2026-08-25 14:00:00,4,1.23,Observación,False
+Laboratorio__TOTEM 2_C06,Laboratorio__TOTEM 2_C06_S1,2026-08-26 15:50:00,5,1.41,Observación,False
+Laboratorio__TOTEM 2_C06,Laboratorio__TOTEM 2_C06_S2,2026-09-01 14:10:00,3,0.842,Observación,False
+Laboratorio__TOTEM 2_C06,Laboratorio__TOTEM 2_C06_S2,2026-09-01 14:49:55,3,0.842,Observación,False
+Laboratorio__TOTEM 2_C06,Laboratorio__TOTEM 2_C06_S2,2026-09-02 16:47:00,4,0.974,Observación,False
+Laboratorio__TOTEM 3_C06,Laboratorio__TOTEM 3_C06_S1,2026-08-24 15:12:00,3,1.074,Observación,False
+Laboratorio__TOTEM 3_C06,Laboratorio__TOTEM 3_C06_S1,2026-08-25 14:01:00,4,1.206,Observación,False
+Laboratorio__TOTEM 3_C06,Laboratorio__TOTEM 3_C06_S1,2026-08-26 15:51:00,5,1.39,Observación,False
+Laboratorio__TOTEM 3_C06,Laboratorio__TOTEM 3_C06_S2,2026-08-31 14:12:00,2,0.547,Observación,False
+Laboratorio__TOTEM 3_C06,Laboratorio__TOTEM 3_C06_S2,2026-09-01 14:51:16,3,0.834,Observación,False
+Laboratorio__TOTEM 3_C06,Laboratorio__TOTEM 3_C06_S2,2026-09-02 16:47:00,4,1.05,Observación,False
+Laboratorio__TOTEM 5_C05,Laboratorio__TOTEM 5_C05_S1,2026-08-17 15:21:00,10,0.798,Observación,False
+Laboratorio__TOTEM 5_C05,Laboratorio__TOTEM 5_C05_S1,2026-08-18 18:16:00,11,1.044,Observación,False
+Laboratorio__TOTEM 5_C05,Laboratorio__TOTEM 5_C05_S1,2026-08-19 16:34:00,12,1.072,Observación,False
+Laboratorio__TOTEM 5_C05,Laboratorio__TOTEM 5_C05_S2,2026-08-21 15:37:00,1,0.617,Observación,False
+Laboratorio__TOTEM 5_C05,Laboratorio__TOTEM 5_C05_S2,2026-08-24 16:14:00,4,0.758,Observación,False
+Laboratorio__TOTEM 5_C05,Laboratorio__TOTEM 5_C05_S2,2026-08-25 16:25:00,5,0.798,Observación,False
+Laboratorio__TOTEM 5_C05,Laboratorio__TOTEM 5_C05_S2,2026-08-26 17:11:34,6,0.856,Observación,False
+Laboratorio__TOTEM 7_C05,Laboratorio__TOTEM 7_C05_S1,2026-08-17 15:22:31,10,0.822,Observación,False
+Laboratorio__TOTEM 7_C05,Laboratorio__TOTEM 7_C05_S1,2026-08-18 18:19:00,11,0.95,Observación,False
+Laboratorio__TOTEM 7_C05,Laboratorio__TOTEM 7_C05_S1,2026-08-19 16:36:00,12,0.972,Observación,False
+Laboratorio__TOTEM 7_C05,Laboratorio__TOTEM 7_C05_S2,2026-08-21 15:46:00,0,0.587,Observación,False
+Laboratorio__TOTEM 7_C05,Laboratorio__TOTEM 7_C05_S2,2026-08-24 16:17:00,3,0.898,Observación,False
+Laboratorio__TOTEM 7_C05,Laboratorio__TOTEM 7_C05_S2,2026-08-25 16:27:00,4,1.054,Observación,False
+Laboratorio__TOTEM 7_C05,Laboratorio__TOTEM 7_C05_S2,2026-08-26 17:12:08,5,1.212,Observación,False
+Planta__TIM 02_C12,Planta__TIM 02_C12_S1,2026-08-17 15:25:11,3,0.522,Observación,False
+Planta__TIM 02_C12,Planta__TIM 02_C12_S1,2026-08-18 18:23:00,5,0.59,Observación,False
+Planta__TIM 02_C12,Planta__TIM 02_C12_S1,2026-08-19 14:51:00,5,0.482,Observación,False
+Planta__TIM 02_C12,Planta__TIM 02_C12_S1,2026-08-20 16:43:00,6,0.515,Observación,False
+Planta__TIM 02_C12,Planta__TIM 02_C12_S2,2026-08-21 20:54:29,1,0.506,Observación,False
