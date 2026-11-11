@@ -4,3 +4,10 @@
 __pycache__/
 .venv/
 .ipynb_checkpoints/
+
+# Excel seleccionados del proyecto
+!datos_originales/
+!datos_originales/*.xlsx
+!resultados/
+!resultados/tablas/
+!resultados/tablas/*.xlsx
